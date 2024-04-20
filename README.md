@@ -1,4 +1,4 @@
-# Sample Snack app
+# News App Instructions
 
 This project was done using snack due to time limit.
 Used react native in developing this project
